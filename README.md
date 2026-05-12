@@ -214,6 +214,8 @@ Bing自动访问下载
 <img width="2103" height="1397" alt="cbc0587fa8fcec208b7962e6e2d8a998" src="https://github.com/user-attachments/assets/2a94db9e-b487-4d34-83f4-996a262f03ef" />
 <img width="2103" height="1397" alt="e800e3a8ef9fb12530798dd7aa0c103c" src="https://github.com/user-attachments/assets/6b9205f3-63bd-4fdc-8b0f-f1cae0076b8a" />
 <img width="2103" height="1397" alt="dc267e993dee23a648342acf3d5ccde2" src="https://github.com/user-attachments/assets/8bf75705-b1f7-4b5e-9faa-3a2996aee70b" />
+
+#### 2.3.8 DayDayMap
 <img width="2103" height="1397" alt="6874d60131c81aef6c3bfee3baebc0be" src="https://github.com/user-attachments/assets/fc791d4b-719d-4130-8af6-2cb3db5c6ef6" />
 
 
@@ -271,8 +273,7 @@ ShadowScan/
 ### 方式一：双击启动
 
 1. 确保已安装 JDK 17+（运行 `java -version` 检查版本）
-2. 下载 release 目录到本地
-3. 双击运行 `start.bat`（脚本自动检测并匹配 JDK 版本）
+2. 双击运行 `start.bat`（脚本自动检测并匹配 JDK 版本）
 
 ### 方式二：命令行启动
 
@@ -340,3 +341,6 @@ java -jar ShadowScan.jar
 - 暴露面梳理：多源数据聚合分析（资产 / 漏洞 / 邮箱 / 代码泄露 / 证书 / DNS / GitHub / 聚合）
 - 代理设置、自定义关键词管理
 
+## 📝致谢
+
+感谢LeakDetector作者提供思路，项目地址：https://github.com/cbbzx12/LeakDetector，大家同样可以支持下。
