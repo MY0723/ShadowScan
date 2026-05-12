@@ -1,4 +1,4 @@
-<img width="156" height="48" alt="image" src="https://github.com/user-attachments/assets/fc8f85e7-944f-43a3-b781-068e2b7640e4" /># ShadowScan 安全扫描器
+# ShadowScan 安全扫描器
 
 > **作者：ROOT4044** | 公众号：**不秃头的安全**
 
