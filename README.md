@@ -189,6 +189,9 @@ Bing自动访问下载
 
 核心价值：将分散在各平台的数据聚合到一个视图，一键梳理目标全量暴露面，减少跨平台切换成本。
 <img width="2103" height="1397" alt="image" src="https://github.com/user-attachments/assets/af3758e7-d0c4-4d51-9beb-5f9ec39b2068" />
+<img width="2292" height="1269" alt="2d6c32405303898aa112beb06117972f" src="https://github.com/user-attachments/assets/8bd9c768-d4d6-4dad-abda-826c2bf6ec44" />
+<img width="1098" height="294" alt="image" src="https://github.com/user-attachments/assets/f7be9915-defd-4453-bd84-e974d83e505b" />
+<img width="870" height="453" alt="image" src="https://github.com/user-attachments/assets/27692ba9-4419-4265-9b70-78f3de87ebea" />
 
 #### 2.3.1 fofa
 <img width="2103" height="1397" alt="121e39599ddc4220a0b8f77c73c5cb8c" src="https://github.com/user-attachments/assets/5f99db9b-ce5f-4a18-8c5c-1a2aeb816657" />
