@@ -347,3 +347,13 @@ java -jar ShadowScan.jar
 ## 📝致谢
 
 感谢LeakDetector作者提供思路，项目地址：https://github.com/cbbzx12/LeakDetector，大家同样可以支持下。
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=MY0723%2FShadowScan&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MY0723/ShadowScan&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MY0723/ShadowScan&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MY0723/ShadowScan&type=date&legend=top-left" />
+ </picture>
+</a>
