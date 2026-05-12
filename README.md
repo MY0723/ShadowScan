@@ -1,5 +1,5 @@
 # ShadowScan 安全扫描器
-<img width="323" height="311" alt="图标" src="https://github.com/user-attachments/assets/620532b0-0a56-4ce4-b561-e56336bd748f" />
+<img width="166" height="155" alt="图标" src="https://github.com/user-attachments/assets/620532b0-0a56-4ce4-b561-e56336bd748f" />
 
 > **作者：ROOT4044** | 公众号：**不秃头的安全**
 
