@@ -24,8 +24,10 @@ ShadowScan 是一款面向安全从业人员的自动化信息泄露扫描与资
 - [免责声明](#免责声明)
 
 ***
-## 首次启动start.bat需要更改start中路径set "JAVA=C:\Program Files\Java\jdk-17.0.4\bin\java.exe"
-## 测绘配置key保存后重启下再搜索
+
+## 注意事项
+### 首次启动start.bat需要更改start中路径set "JAVA=C:\Program Files\Java\jdk-17.0.4\bin\java.exe"
+### 测绘配置key保存后重启下再搜索
 
 ## 模块一：Dork 扫描
 
