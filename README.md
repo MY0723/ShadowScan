@@ -353,7 +353,8 @@ java -jar ShadowScan.jar
 ## 📝致谢
 
 感谢LeakDetector作者提供思路，项目地址：https://github.com/cbbzx12/LeakDetector，大家同样可以支持下。
-<img width="525" height="550" alt="cae99c3a0473637b369a27ab66a22834" src="https://github.com/user-attachments/assets/ae458aee-5aea-415a-91e2-2503eabcd1f9" />
+<img width="933" height="1071" alt="image" src="https://github.com/user-attachments/assets/4bfa33b9-afcb-42dc-9976-9c80d2aed2e6" />
+
 
 ## Star History
 
